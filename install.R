@@ -1,0 +1,5 @@
+install.packages("BiocManager")
+BiocManager::install("InterMineR")
+BiocManager::install("GeneAnswers")
+BiocManager::install("org.Hs.eg.db")
+BiocManager::install("GO.db")
